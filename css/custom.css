@@ -5,10 +5,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Anton', sans;
-}
-
-p {
-    padding: 0;
+    font-weight: bold;
 }
 
 .logo-xs {
@@ -18,18 +15,45 @@ p {
     width: 105px;
 }
 
+body > div > div.row > div.col-xs-12.xs-div-image {
+    height: 1px;
+}
+
+.s-w-b-c {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0;
+    margin-bottom: 70px;
+}
+
+.v-d-w-d {
+    font-weight: bold;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.xs-from-park-city {
+    margin-bottom: 40px;
+}
+
+.xs-big-buttons {
+    margin-bottom: 100px;
+}
+
 .codeup-header {
     font-size: 50px;
+    padding: 0;
+    margin: 50px;
 }
 
 .btn-circle {
     color: white;
-    margin: 30px;
+    margin: 10px;
     width: 160px;
     height: 160px;
     text-align: center;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     border: 10px solid white;
     border-radius: 100px;
 }
@@ -50,6 +74,10 @@ p {
 .xs-b-4 {
     background-color: #00ABA9;
 
+}
+
+.selected-work {
+    margin-bottom: 40px;
 }
 
 .smaller-headings {
