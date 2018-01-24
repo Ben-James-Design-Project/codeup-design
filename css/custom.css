@@ -107,3 +107,26 @@ body > div > div.row > div.col-xs-12.div-image {
     position: relative;
     bottom: 160px;
 }
+
+.sm-v-d-w-b {
+    margin-bottom: 60px;
+    padding: 0;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.sm-from-park-city {
+    margin-bottom: 50px;
+    padding: 0;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.sm-big-buttons {
+    margin-bottom: 25px;
+}
+
+.sm-hr {
+    border: 1px solid red;
+    width: 70%;
+}
